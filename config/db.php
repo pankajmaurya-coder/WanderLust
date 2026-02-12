@@ -2,7 +2,7 @@
 class Database {
     private $server = 'localhost';
     private $user = 'root';
-    private $pass = 'pm638684.';
+    private $pass = '';
     private $dbname = 'wanderlust';
     
     private $pdo;
